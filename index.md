@@ -3,12 +3,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Automação Campus Rio Pomba</title>
-  <script src="./dist/js/jquery.min.js"></script>
-  <script src="./dist/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./dist/js/jquery.min.js"></script>
+  <script type="text/javascript" src="./dist/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="./dist/js/bootstrap.bundle.min.js"></script>
   <link href="./dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="./dist/css/bootstrap-grid.min.css" rel="stylesheet">
-  <link href="./dist/css/bootstrap-reboot.min.css" rel="stylesheet">
-  <script src="./dist/js/bootstrap.bundle.min.js"></script>
+  <link href="./dist/css/bootstrap-reboot.min.css" rel="stylesheet">  
 </head>
 <body>
 <main role="main">
